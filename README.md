@@ -1,4 +1,5 @@
 I am Umang Majumder. I am a Math Major from the Indian Institute of Science. I will be graduating with a BS degree in 2026.
+
 My website is [here](https://zerodawn0d.github.io)
 
 My Obsidian class notes are [here](https://github.com/ZeroDawn0D/iisc-notes)
