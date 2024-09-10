@@ -1,13 +1,18 @@
-I am Umang Majumder. I'm Materials Science from the Indian Institute of Science. I will be graduating with a 4 year B.S. (Research) degree in 2026.
+# 👋 Hello
+I am Umang Majumder. I study Materials Science and Engineering at the Indian Institute of Science and will be graduating with a Bachelor's Research degree in 2026.
 
-My website is [here](https://zerodawn0d.github.io)
+## Projects
+1. **Zekrom:** A custom multiplayer server written in Go. Has HTTP Long Polling and WebSocket Support
+2. **Cryptopals:** Solving the cryptopals challenges in Rust
+3. **tRiad:** R Package to perform Delaunay Triangulations written in C++
+4. **pixirain:** Client-Side Procedural Generation of Sprites in javascript
+5. **Grind75:** Solving Grind75 in C++
+6. **PRNN2024:** All algorithms implemented for Pattern Recognition and Neural Networks (numpy+cvxopt only)
 
+Emojis I like: 🐋🐳
 
-My list of most used emojis are here: 🐋🐳
+Fonts I like: Ubuntu, Shanti, Rajdhani and BlenderPro 
 
-At college, I'm the secretary of the IISc ACM Student Club, and am currently learning Rust on the side.
-
-==
 
 <!---
 ZeroDawn0D/ZeroDawn0D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
